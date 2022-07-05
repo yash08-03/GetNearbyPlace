@@ -1,0 +1,1 @@
+# GetNearbyPlace - the to do app with nearby places suport
